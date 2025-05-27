@@ -39,7 +39,6 @@ When used in Traefik as a middleware, `giam`:
 - **Traefik v2.5+** with [plugin support enabled](https://doc.traefik.io/traefik/v2.5/plugins/overview/).
 - A running **Grafana** and **Prometheus/Thanos** or **Loki** instance.
 - API Key that you can generate form our [portal](https://portal.usegiam.com). 
-- Follow 
 ---
 
 ## Installation
