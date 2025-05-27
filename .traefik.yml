@@ -1,5 +1,6 @@
 # The name of your plugin as displayed in the Plugins Catalog web UI.
-displayName: Giam Traefik Integration
+displayName: Giam Traefik Plugin
+iconPath: ./icon.png
 
 # For now, `middleware` is the only type available.
 type: middleware
@@ -8,7 +9,7 @@ type: middleware
 import: github.com/usegiam/giam-traefik-plugin
 
 # A brief description of what your plugin is doing.
-summary: This proxy to integrate with Giam.
+summary: This plugin to use Giam(authorize your metrics/logs).
 
 # Configuration data for your plugin.
 # This is mandatory,
