@@ -1,5 +1,5 @@
 # The name of your plugin as displayed in the Plugins Catalog web UI.
-displayName: Giam Traefik Plugin
+displayName: Prometheus/Thanos/Loki Authorization 
 iconPath: ./icon.png
 
 # For now, `middleware` is the only type available.
@@ -9,7 +9,7 @@ type: middleware
 import: github.com/usegiam/giam-traefik-plugin
 
 # A brief description of what your plugin is doing.
-summary: This plugin to use Giam(authorize your metrics/logs).
+summary: Authorize your observability stack using Giam.
 
 # Configuration data for your plugin.
 # This is mandatory,
