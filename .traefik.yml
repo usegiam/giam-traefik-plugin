@@ -1,6 +1,9 @@
 # The name of your plugin as displayed in the Plugins Catalog web UI.
 displayName: Prometheus/Thanos/Loki Authorization 
-iconPath: ./icon.png
+
+iconPath: icon.png
+
+bannerPath: icon.png
 
 # For now, `middleware` is the only type available.
 type: middleware
